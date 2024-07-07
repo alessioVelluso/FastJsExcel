@@ -1,6 +1,6 @@
 {
   "name": "fast-js-excel",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "Alessio Velluso",
   "license": "MIT",
   "description": "Fast excel file maker",
@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "exceljs": "^4.4.0",
-    "word-file-utils": "^2.0.0"
+    "word-file-utils": "2.0.2"
   },
   "main": "dist/index.js",
   "module": "dist/index.mjs",
